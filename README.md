@@ -21,8 +21,8 @@ def Data_Function():
 			Data_21_30.append(i)
 			
 	print("Total Data =" , Data_list)
-	print("1 se 10" , Data_1_10)
-	print("Data 11 se 20" , Data_11_20)
-	print("21 se 30" , Data_21_30)
+	print("1 to 10 = " , Data_1_10)
+	print("11 to 20 = " , Data_11_20)
+	print("21 to 30 = " , Data_21_30)
 	
 Data_Function()
